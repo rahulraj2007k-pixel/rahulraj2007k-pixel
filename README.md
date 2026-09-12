@@ -26,6 +26,7 @@ web development, and building practical projects that solve real-world problems.
 - C
 - C++
 - Python
+- Java
 - JavaScript
 - HTML
 - CSS
