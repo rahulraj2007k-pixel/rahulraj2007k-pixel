@@ -60,6 +60,9 @@ web development, and building practical projects that solve real-world problems.
 
 ### 📁 Data & Productivity
 - Microsoft Excel
+- Microsoft Word
+- Microsoft Office
+- Libra Office
 - CSV
 - JSON
 
