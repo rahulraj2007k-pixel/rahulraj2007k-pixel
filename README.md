@@ -120,7 +120,7 @@ I regularly work on projects, practice programming, and explore new technologies
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-6340b13a1))
+- 💼 LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahulkumar07-dev)
 - 🐙 GitHub: [Rahul Kumar](https://github.com/rahulraj2007k-pixel)
 
 ---
